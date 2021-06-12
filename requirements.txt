@@ -1,0 +1,5 @@
+numpy==1.19.3
+imutils==0.5.4
+urllib==1.26.2
+playsound==1.2.2
+pyttsx3==2.90
